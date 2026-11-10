@@ -1,0 +1,5 @@
+Approved!
+
+Wow, SoulSeek. Haven't thought of that platform in a while. I like your automation project. The automated metadata annotation will be useful, if you re-share the annotated file, the other SoulSeek users will thank you.
+
+I wonder how will the automation know when the album is downloaded from SoulSeek, so that it can apply the MusicBrainz album metadata annotations? Does slskd provide that information? I know that my old SoulSeek client would put partial files in one directory, and then transfer them to another once downloaded, but I don't think that it will refrain from transferring the files until the whole album is downloaded... something to think about.
